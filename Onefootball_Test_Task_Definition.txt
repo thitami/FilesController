@@ -1,0 +1,19 @@
+Onefootball Test Task
+----------------
+
+Programming Language: PHP or Go
+
+1. Parse attatched files BayernMunich.json and Germany.json
+2. Retrieve and store in the MySql database the following data:
+    Team:
+        - name
+        - players
+    Player:
+        - firstname
+        - lastname
+        - number
+
+Please, make sure you store any unique entity only once, ie. if a player appear to play both for 
+Germany and Bayern make sure you store the player only once.  
+
+
